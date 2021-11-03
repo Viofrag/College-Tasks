@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int judge(int n,int i)//判断n是不是质数 
+int judge(int n,int i)//脜脨露脧n脢脟虏禄脢脟脰脢脢媒 
 {
 	int a=0;
 	if(n==2)
